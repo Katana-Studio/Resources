@@ -7,4 +7,8 @@
 * [Svelte](https://svelte.dev/) as FrontEnd UI framework
 * [Tailwind CSS](https://tailwindcss.com/) for UI styling
 
+## UI-Design Guidelines
+
+* [Guide to Dark Themes with Material Desing](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
+
 ## Architecture
