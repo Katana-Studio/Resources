@@ -7,7 +7,3 @@
 
 * [Harley Benton MP-100](https://www.thomann.de/de/harley_benton_mp_100_midi_foot_controller.htm): MIDI Programmable footswitch -> Control FX & Banks
 
-## Appendix
-
-[Harley Benton MP-100 Manual](https://images.thomann.de/pics/atg/atgdata/document/manual/c_432459_v2_de_online.pdf)
-

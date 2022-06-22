@@ -1,19 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T12:27:37.888Z" agent="5.0 (Windows)" etag="olGTgku4eFcQlpDvGpfH" version="20.0.2" type="github">
-  <diagram id="7Y_a1F2VIK09-wQn1vmn" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="he7JQ4Ay3iBqvJ_6Xx8Q-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="349" y="190" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="he7JQ4Ay3iBqvJ_6Xx8Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="he7JQ4Ay3iBqvJ_6Xx8Q-5">
-          <mxGeometry x="5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="he7JQ4Ay3iBqvJ_6Xx8Q-4" value="&lt;div&gt;Boss Katana - MK-II&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="he7JQ4Ay3iBqvJ_6Xx8Q-5">
-          <mxGeometry y="15" width="130" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram id="7Y_a1F2VIK09-wQn1vmn" name="Page-1">
+        <mxGraphModel dx="1374" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
