@@ -9,8 +9,8 @@
 
 ## UI-Design Guidelines
 
-* [Material IO](https://material.io/)
+* [Material IO](https://material.io/). Unter [Components](https://material.io/components?platform=web) gibts auch Web-Components.
 
-* [Guide to Dark Themes with Material Desing](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
+* [Guide to Dark Themes with Material Design](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
 
 ## Architecture
