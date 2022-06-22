@@ -9,6 +9,8 @@
 
 ## UI-Design Guidelines
 
+* [Material IO](https://material.io/)
+
 * [Guide to Dark Themes with Material Desing](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
 
 ## Architecture
