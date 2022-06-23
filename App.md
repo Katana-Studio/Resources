@@ -6,9 +6,7 @@
 * [Vite](https://vitejs.dev/) as FrontEnd JS buildtooling
 * [Svelte](https://svelte.dev/) as FrontEnd UI framework
 * [Tailwind CSS](https://tailwindcss.com/) for UI styling
-
-## Interfacing with Devices
-
+* [Service Discovery on same network](https://crates.io/crates/mdns)
 * [MIDI for footswitch](https://docs.rs/midir/0.8.0/midir/)
 
 ## UI-Design Guidelines
