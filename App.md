@@ -7,6 +7,10 @@
 * [Svelte](https://svelte.dev/) as FrontEnd UI framework
 * [Tailwind CSS](https://tailwindcss.com/) for UI styling
 
+## Interfacing with Devices
+
+* [MIDI for footswitch](https://docs.rs/midir/0.8.0/midir/)
+
 ## UI-Design Guidelines
 
 * [Material IO](https://material.io/). Unter [Components](https://material.io/components?platform=web) gibts auch Web-Components.
