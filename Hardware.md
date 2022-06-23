@@ -7,3 +7,4 @@
 
 * [Harley Benton MP-100](https://www.thomann.de/de/harley_benton_mp_100_midi_foot_controller.htm): MIDI Programmable footswitch -> Control FX & Banks
 
+* [MIDI Board](https://www.osaelectronics.com/learn/setting-up-raspberry-pi-for-midi-old/) (Optional)
