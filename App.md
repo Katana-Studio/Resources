@@ -6,6 +6,7 @@
 * [Vite](https://vitejs.dev/) as FrontEnd JS buildtooling
 * [Svelte](https://svelte.dev/) as FrontEnd UI framework
 * [Tailwind CSS](https://tailwindcss.com/) for UI styling
+* [Daisy UI](https://daisyui.com/components/textarea/) (Tailwind based component library)
 * [Service Discovery on same network](https://crates.io/crates/mdns)
 * [MIDI for footswitch](https://docs.rs/midir/0.8.0/midir/)
 
