@@ -9,6 +9,11 @@
 * [Daisy UI](https://daisyui.com/components/textarea/) (Tailwind based component library)
 * [Service Discovery on same network](https://crates.io/crates/mdns)
 * [MIDI for footswitch](https://docs.rs/midir/0.8.0/midir/)
+* [Wifi-Direct on Linux](https://www.youtube.com/watch?v=5BkfztZ0pOE). 
+
+  * **Note**: Windows does support Wifi-P2P (not found in `netsh show drivers`, but in `netsh wlan show wirelesscapabilities` command). Test connection once set up. If not supported, fallback on same network connection??. 
+  
+  * **NOTE**: WSL doesn't have access to WIFI hardware, thus WSL-Wifi-Direct will not work
 
 ## UI-Design Guidelines
 
