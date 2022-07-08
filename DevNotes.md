@@ -29,3 +29,6 @@ Supply custom keyboard for user input in the UI
 * [Auto Updates via GitHub Releases](https://github.com/tauri-apps/tauri/discussions/2776). Reads JSON from Github gist.
     Maybe create CI/CD Task & create new release gist on release being pushed to main/release branch
 * [Tauri Update API guide](https://tauri.app/v1/guides/distribution/updater/)
+
+## Tailwind VSCode
+* [Collapsable style thingys](https://www.youtube.com/shorts/4VUaoUAaMQg)
